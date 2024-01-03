@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<Authors>Victor Sanchez</Authors>
+	<Company>Infoware Soluciones</Company>
+	<Description>Specification Pattern</Description>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<RepositoryUrl>https://github.com/vicosanz/Infoware.Specification</RepositoryUrl>
+	<Version>1.0.0</Version>
+  </PropertyGroup>
+
+</Project>
